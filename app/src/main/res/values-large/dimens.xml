@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <item name="large_weight_imageview" type="dimen" format="float">4</item>
+    <item name="large_weight_button" type="dimen" format="float">0</item>
+
+
+</resources>

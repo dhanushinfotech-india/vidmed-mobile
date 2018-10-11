@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="text_size">12sp</dimen>
+    <dimen name="patientname_text">17sp</dimen>
+    <dimen name="poc_profile_textsize">16sp</dimen>
+    <dimen name="profile_width">75dp</dimen>
+    <dimen name="profile_height">75dp</dimen>
+
+</resources>

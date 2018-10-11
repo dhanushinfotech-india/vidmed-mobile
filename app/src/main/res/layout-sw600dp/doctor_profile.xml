@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+
+           <ImageView
+                    android:id="@+id/logout_image"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+               android:layout_marginTop="10dp"
+               android:layout_marginRight="20dp"
+               android:layout_alignParentRight="true"
+               android:background="@drawable/logout"/>
+            </RelativeLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+
+        android:id="@+id/doctor_pro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/circleView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/photo" />
+
+        <TextView
+            android:id="@+id/doc_imgname"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/circleView"
+            android:layout_marginTop="20dp"
+            android:layout_toEndOf="@+id/circleView"
+            android:layout_toRightOf="@+id/circleView"
+            android:gravity="center_vertical"
+            android:paddingStart="20dp"
+            android:text="Doctor Name"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tv_doctor"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="Doctor Id"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"
+            android:layout_marginTop="155dp"/>
+
+
+        <TextView
+            android:id="@+id/id_doc"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/tv_doctor"
+            android:layout_alignTop="@+id/tv_doctor"
+            android:gravity="center_vertical"
+            android:text="Id"
+            android:textSize="20dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/id_doc"
+            android:layout_marginTop="8dp"
+            android:background="#A9A9A9" />
+
+        <TextView
+            android:id="@+id/tv_email"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="Email"
+            android:textSize="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/tv_doctor"/>
+
+        <TextView
+            android:id="@+id/email_doc"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:text="Email"
+            android:layout_marginLeft="30dp"
+            android:textSize="20dp"
+            android:layout_above="@+id/view"
+            android:layout_alignStart="@+id/doc_imgname" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/tv_email"
+            android:layout_marginTop="8dp"
+            android:background="#A9A9A9"
+            android:id="@+id/view" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

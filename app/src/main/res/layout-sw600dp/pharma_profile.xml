@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/logout_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/logout"/>
+        </RelativeLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+
+        android:id="@+id/pharma_pro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/circleView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/user" />
+
+        <TextView
+            android:id="@+id/pharma_imgname"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/circleView"
+            android:layout_marginTop="20dp"
+            android:layout_toEndOf="@+id/circleView"
+            android:layout_toRightOf="@+id/circleView"
+            android:gravity="center_vertical"
+            android:paddingStart="20dp"
+            android:text="Pharma Name"
+            android:textSize="20dp" />
+
+        <ImageButton
+            android:id="@+id/iv_call"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:visibility="gone"
+            android:paddingStart="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="100dp"
+            android:src="@android:drawable/sym_action_call"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="87dp" />
+
+
+
+        <TextView
+            android:id="@+id/tv_pharma"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="Pharma Id"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"
+            android:layout_marginTop="155dp"/>
+
+
+        <TextView
+            android:id="@+id/id_pharma"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@id/tv_pharma"
+            android:layout_alignTop="@+id/tv_pharma"
+            android:gravity="center_vertical"
+            android:layout_marginRight="15dp"
+            android:text="Id"
+            android:textSize="20dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/id_pharma"
+            android:layout_marginTop="8dp"
+            android:background="#A9A9A9" />
+
+        <TextView
+            android:id="@+id/tv_email"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="Email"
+            android:textSize="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_below="@+id/tv_pharma"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"/>
+
+        <TextView
+            android:id="@+id/email_pharma"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@id/tv_email"
+            android:layout_alignTop="@+id/tv_email"
+            android:gravity="center_vertical"
+            android:layout_marginRight="15dp"
+            android:text="Email"
+            android:textSize="20dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/email_pharma"
+            android:layout_marginTop="8dp"
+            android:background="#A9A9A9"
+            android:id="@+id/viemail"
+            />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

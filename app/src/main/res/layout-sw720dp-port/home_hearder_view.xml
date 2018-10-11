@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="30dp"
+    android:orientation="horizontal"
+    android:weightSum="16"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        android:text="Image"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:textSize="16sp"
+        />
+
+    <View
+        android:layout_width="1.5dp"
+        android:layout_height="fill_parent"
+        android:background="#e2e7e7" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="7"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:text="Patient Info"/>
+
+    <View
+        android:layout_width="1.5dp"
+        android:layout_height="fill_parent"
+        android:background="#e2e7e7" />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:text="Visit Date"/>
+
+    <View
+        android:layout_width="1.5dp"
+        android:layout_height="fill_parent"
+        android:background="#e2e7e7" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:text="Renewal Date"/>
+
+    <View
+        android:layout_width="1.5dp"
+        android:layout_height="fill_parent"
+        android:background="#e2e7e7" />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:text="Valid UpTo"
+        android:textSize="16sp" />
+
+
+
+
+</LinearLayout>

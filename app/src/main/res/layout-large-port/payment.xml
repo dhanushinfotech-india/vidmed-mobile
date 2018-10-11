@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dip"
+                android:text="Order Details"
+                android:textColor="#000"
+                android:textSize="18dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:gravity="center_vertical"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/order_id"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/order_id"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_order_id" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/customer_id"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/customer_id"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_customer_id" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/transaction_amount"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/transaction_amount"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_transaction_amount" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/cust_email_id"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/cust_email_id"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_cust_email_id" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/cust_mobile_no"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/cust_mobile_no"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_cust_mobile_no" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:text="Merchant Properties"
+                android:textColor="#000"
+                android:textSize="18dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/merchant_id"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/merchant_id"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_merchant_id_staging" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/channel_id"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/channel_id"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_channel_id" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/industry_type_id"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/industry_type_id"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_industry_type_id" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/website"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/website"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_website" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:gravity="center_vertical"
+                        android:text="@string/theme"
+                        android:textSize="16dip"
+                        android:textStyle="bold" />
+
+                    <EditText
+                        android:id="@+id/theme"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.50"
+                        android:background="@drawable/edit_text_custom_bg"
+                        android:padding="10dp"
+                        android:singleLine="true"
+                        android:text="@string/sample_theme" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/checksum_generation"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_margin="10dp"
+            android:visibility="gone"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.50"
+                android:gravity="right"
+                android:text="@string/checksum_generation_url"
+                android:textSize="16dip"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/checksum_generation_url"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.50"
+                android:singleLine="true"
+                android:text="@string/sample_checksum_generation_url" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/checksum_verification"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_margin="10dp"
+            android:visibility="gone"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.50"
+                android:gravity="right"
+                android:text="@string/checksum_verification_url"
+                android:textSize="16dip"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/checksum_verification_url"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.50"
+                android:singleLine="true"
+                android:text="@string/sample_checksum_verification_url" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/start_transaction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dip"
+            android:onClick="onStartTransaction"
+            android:background="#3a9e3c"
+            android:textColor="#ffff"
+            android:textAllCaps="false"
+            android:text="@string/start_transaction"
+            android:textSize="16dip"/>
+
+    </LinearLayout>
+
+</ScrollView>

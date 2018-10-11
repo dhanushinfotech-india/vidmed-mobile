@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Vidmed</string>
+
+    <string name="title_activity__home__navigation">Activity_Home_Navigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Profile</string>
+    <string name="nav_photos">Logout</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Photos</item>
+        <item>Movies</item>
+        <item>Notifications</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_reports">Reports</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Patient Name,Patient id,Patient Number</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="userNameEditText">Enter user name</string>
+    <string name="passwordEditText">Enter password</string>
+    <string name="login_text">Log In</string>
+    <string name="image_description">logo</string>
+    <string name="spacer">spacer</string>
+    <string name="loggin_in_dialog_title">Logging in…</string>
+    <string name="loggin_in_dialog_message">Please wait</string>
+    <string name="login_failed_dialog_title">Log in failed</string>
+    <string name="login_failed_dialog_message">Please check the credentials</string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="sum_of_rs_towards_registration_fees">I/We have forwarded a sum of Rs………towards registration fees according to the provision of the Food Safety and Standards (Licensing and Registration) Regulations, 2011 vide</string>
+    <string name="amount">Amount</string>
+    <string name="type_of_payment">Type of Payment</string>
+    <string name="dd_number">DD Number</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="capture_finger_print">Capture Finger Print</string>
+    <string name="save_record">Save Record</string>
+    <string name="food_name">Food Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="more_information">More Information</string>
+    <string name="order_id">Order Id  </string>
+    <string name="customer_id">Customer Id  </string>
+    <string name="transaction_amount">Transaction Amount  </string>
+    <string name="channel_id">Channel Id  </string>
+    <string name="industry_type_id">Industry Type Id  </string>
+    <string name="website">Website  </string>
+    <string name="theme">Theme  </string>
+    <string name="cust_email_id">Email Id  </string>
+    <string name="cust_mobile_no">Mobile Number  </string>
+    <string name="merchant_id">Merchant Id  </string>
+    <string name="checksum_generation_url">Checksum Generation URL  </string>
+    <string name="checksum_verification_url">Checksum Verification URL  </string>
+    <string name="start_transaction">Start Transaction</string>
+    <string name="sample_order_id">ORDER</string>
+    <string name="sample_customer_id">CUST23657</string>
+    <string name="sample_transaction_amount">1</string>
+    <string name="sample_channel_id">WAP</string>
+    <string name="sample_industry_type_id">Retail</string>
+    <string name="sample_website">worldpressplg</string>
+    <string name="sample_theme">merchant</string>
+    <string name="sample_cust_email_id">abc@gmail.com</string>
+    <string name="sample_cust_mobile_no">123</string>
+    <string name="sample_merchant_id_staging">WorldP64425807474247</string>
+    <string name="sample_checksum_generation_url">https://pguat.paytm.com/merchant-chksum/ChecksumGenerator</string>
+    <string name="sample_checksum_verification_url">https://pguat.paytm.com/merchant-chksum/ValidateChksum</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="mustenteridnumber">Please provide User Name and Mobile No</string>
+    <string name="stop">Stop</string>
+    <string name="startstop">Start</string>
+    <string name="OP_SUCCESS">Success</string>
+
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="ProgressBar" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+    </style>
+    <style name="CustomAlertDialogStyle">
+        <item name="android:bottomBright">#003366</item>
+        <item name="android:bottomDark">#003366</item>
+        <item name="android:bottomMedium">#003366</item>
+        <item name="android:centerBright">#003366</item>
+        <item name="android:centerDark">#003366</item>
+        <item name="android:centerMedium">#003366</item>
+        <item name="android:fullBright">#003366</item>
+        <item name="android:fullDark">#003366</item>
+        <item name="android:topBright">#003366</item>
+        <item name="android:topDark">#003366</item>
+    </style>
+
+
+</resources>

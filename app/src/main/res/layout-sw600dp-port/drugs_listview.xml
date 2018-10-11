@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="2">
+
+
+
+    <LinearLayout
+        android:id="@+id/list_head"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#CCCCCC"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:weightSum="18">
+
+
+        <TextView
+            android:id="@+id/tb_drug"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.5"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Drug Type"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="#000" />
+
+        <TextView
+            android:id="@+id/tb_direct"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="6"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Drug Name"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="#000" />
+
+        <TextView
+            android:id="@+id/tb_dosage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Dosage"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="#000" />
+
+        <TextView
+            android:id="@+id/tb_frequency"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.2"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Direction"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size" />
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="#000" />
+
+        <TextView
+            android:id="@+id/tb_instruction"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.8"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Instruction"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="#000" />
+
+
+
+        <TextView
+            android:id="@+id/tb_days"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.5"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="No of Days"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size" />
+    </LinearLayout>
+    <ListView
+        android:id="@+id/drug_listview"
+        android:layout_below="@+id/list_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"        />
+</LinearLayout>

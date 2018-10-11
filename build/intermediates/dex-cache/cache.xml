@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/4435d52a32af645d2fc2eb9f56b5b1a9f9464c47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e9b6444ef52135db73b371477c23cf9b454586a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/b0e8e78f750680b816f244e8f42ec6cfac347f85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fa67827e945400ffc2cd652e60a0fa13158661d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/Sonoline-S_SDK v1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab05d9c87ac1ec7073dbe4e9a5c2cd1e0898edcd">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sonoline-S_SDK v1.0_a214af83f5f2acf0f974919ce51d6a6cb8c77a15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/CMSSXT_SDK v1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="941faf3895f12d7a1fe2398ca75764676dddad92">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/CMSSXT_SDK v1.2_0be026d4ca9f4f87f6a7dad80126484023e66503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/7ae4ab1e31b6c1c829b8fe59bfc9acad0b29f74f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb947e4074d4918a91c26b1ab18cde6e6ce7f225/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/f932b80e65ea3e34d94c56e7a7d45ab52546f8fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35690ede311b4b1e75130c26cef5c46effb99208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/f28809eeed67aaed105b0151e65c393962c9d416/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8303f3214ee3f7449b11b1eda761edcac32e4dc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/PGSDK_v1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e105bd26acd5d45143e3dcbe83ae9f1969530619">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/PGSDK_v1.0.1_4ab32ac4a087f75d40d4a8fe43c3e942db27577f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/1f61489b76c21b69b6ce739b4632cf09c26cc15f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47913a112c1cbc6b397c030933b7d9fac9ce2fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/EarTemperature_SDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5debef3ca669bbbb748f16f8f8db24029111d011">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/EarTemperature_SDK_a972e32220d137913c9618f5d76a1e53660f67ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/cb33f6b432e8fbf218fddd812982492908435069/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92e3e59aad5f7ce6670965ba82b2d6433a4d8218/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/96aac382a149f8c234e068f51176ad074b73c131/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b8f44e2c31e80b32ae6a014861b8329e801be27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/ab705910354ca84c1f2fbdd28727b5a3eaf1875c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_636911d74f9f8ae7e2759815900355f70f59a6f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4055949c12a6c0f7f8310ca6fcda3eb9b40d75dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/e89daea8e3e4ebf687896cd22e4b723a04119fde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_797febbb2eb0aee32b8a5b300f83579f5f7cc248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/22b4c53dd9b6761024258de8f9240c3dce6ea368/httpmime-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22b4c53dd9b6761024258de8f9240c3dce6ea368">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpmime-4.5.2_295c111158d72708c1977c71f1912565a40e58ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/project_cms50dj_jar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6c7b1b1ed01fdf3af5470a6a265a5b10461acb35">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/project_cms50dj_jar_7689269c9cd8802e3d364cfe33e293794f3affbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/dd20a68f7d45ccacbff149482c4b6956509f6330/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52b93cd7b85112de07e7c980a9b9606db71868bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/5450947e0285108ed6936177975d51db0d219798/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b29dfa965dc73b7cff0fb9b295595312a5b9ff5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/8c14b2ad1aec8ac838aae9f42af50624a9f5ef7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f013a51c9d0734d1d1af7a6209732c7dce114ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/1b5382427b4c590d1c1bcc38f463941dd0f98cbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2ce8993d46963d95662fed23eaba9e3caa0643f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/465d622af1e44b3e20ff2c7a96ccf378bc0b4f98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6da35963aaf73dd644c7701e986235ba9790dd88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/ca0c3129d62a6e2e8ead9754ffa2e9d398a0b790/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe2d69bf2b61d4d3f3b638c30314a663f86b71e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/c0f3408bd7f518aca73571f21fa6e241b7afed41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23de344a2c12652d8498bbc396b8e22911efd5eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9ba5e803de2ea3c866217a2628fb8298b4acacf">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2efdd1ccab57f09e35ecdc84611d560f9f3e6fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/bb094cd20483a58dfc357b2ae835ab8617181323/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_3890bca8e3c4d7dc025e44839b067a79aee3d5b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/CONTEC08A_SDK v1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7caf65fd12bf712c064b8e2a082e799ac9b65bcf">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/CONTEC08A_SDK v1.6_388ada0ee78e380b42311225920caa5037066ee2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/05ee271fb4cefd6f73eef471bc7a7671ea95a788/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81b6ecffc562789b626a212fb7e1d5a001a9bdf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_9e6cda5b9d8bd30418ee89cf15bc796f4de03b7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/ef4b86c4bf746d9957cabd566454fa14e87edca2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fa30c0a004821e97cf3c290e2c9824ad9b35365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/1de333aec40b6c03fd7c42b25680fc1eeec7aa86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_644489b75a05cba3bd4d38154d58e2e46ce8603a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/d00695c2e1f8e75dc83938d0c2ea44765be589c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c39843d4f19c2c2dcabcc01fbfa5703ad91db47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/c229d8fa8da95fc33332c08bec88bb1951ca1ac4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f512e7cc5571fb638a4196ea487fadf3c7677d0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/fd09cade5baf218e47b2273760d42474b7bfbef7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c17c8bdd93342e7ac119740b498e8b283c24f258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/782dd3b617f5992566ca46f476b5b538ae13bbd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae0e831d594b06ab0a1b2b277714b5f672c6038d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/Java-WebSocket-1.3.0_b8658a65628b6cea6683cbd81583fbcf17814f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/03c19b66e0c6e47ee2ed9fc30d42dc8e25645354/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dc521b33f1f8d4e4d1e91b461c83213c3bf089c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/15686ab86ebc6e0f2184254ad82f1bb8f7c107a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ae8849768b05d23824b84e2c49bbbe7639412f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/484bf76eae097e1b8dae28057cfdd809d8bbe4e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_782dd9392f97aca8bae2b145bea59f4b9e4ef3de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/29ef1e5463e91938b58a573b663d6e75cd39e911/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bb55dddde27f087ef5031205a8b705c4bc2d3ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/3db9d9585547441ebd47cfbd097bec46e6d4aee5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b88ad86f9a89cb8766b3c1d543a243d47c0d9e2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/2472d5267b4ac042bdf44cb8a6e298755675ca8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a3c0eb83ecc75c76789c25dc8a9a38ce201395e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/65966b14ac35a9bac42fdddd1f44afb57a824071/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc884703a340904b02a30c7b4fe3ee0d2fef9e53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/43cd07c8b0088a96265867e0adae18af98c05d4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c826dad6c2972d61356131461ac988c9371e07ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/Sonoline-S_SDK v1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ab05d9c87ac1ec7073dbe4e9a5c2cd1e0898edcd">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sonoline-S_SDK v1.0_a214af83f5f2acf0f974919ce51d6a6cb8c77a15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/PGSDK_v1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e105bd26acd5d45143e3dcbe83ae9f1969530619">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/PGSDK_v1.0.1_4ab32ac4a087f75d40d4a8fe43c3e942db27577f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/884b1d1d9b58e2192dc406f0455d6bdb286d0b39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c33e62b64d86f893c7efae0bf3aa70fc46a5b7b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/87c71ef9bc9114b5690bd477112da8d70d973c07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_727d66f0e923d4923348d7418576fa3529932869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/a451aede7be5664dfe3ee9171d70832a0db9ed33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd28e4f2326d51fb48168abe3c7cd1f9e058ee3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/a820cfa96aa022d99965b88e1e25cdf65f68c24d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fde20b35c874295771d305777842a4aba2631839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/5fc8ed22f4a8ea7a55c0985752070f5f26df138d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1da30b0c4eda18fd84a63ef8bdc3790660d87ec1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/c9ba28a49f01fcd4ffdfe09bdcc95dd65bcd9021/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f9c622a4239ac5d0c90f2d7969ebad1a7874898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.5_b4740cf738a5985750bb221ec8ce2e266bce07ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/CMSSXT_SDK v1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="941faf3895f12d7a1fe2398ca75764676dddad92">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/CMSSXT_SDK v1.2_0be026d4ca9f4f87f6a7dad80126484023e66503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/339bd556923bef44154f1b0f972088df8ee217b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_004ff4d45206598c483d04758f07fba593d4a845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/EarTemperature_SDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5debef3ca669bbbb748f16f8f8db24029111d011">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/EarTemperature_SDK_a972e32220d137913c9618f5d76a1e53660f67ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/19e7ff29eda5e93020741282963fd5912d0a1bba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80c691993d536dcefbdf209e7c3416702fae4a8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/a3cdc0603856e1a34b7326ee9ff829ba5e482a4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42ca5676e07f95ac84c81cf7a735995bbfe70e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/project_cms50dj_jar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c7b1b1ed01fdf3af5470a6a265a5b10461acb35">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/project_cms50dj_jar_7689269c9cd8802e3d364cfe33e293794f3affbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/cc6277380f5e69a8ac5607637c2080df79d28842/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_274edf6d1744c9fa06df510c4d9a96b6f3bd880f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4055949c12a6c0f7f8310ca6fcda3eb9b40d75dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/7069167ec9297d06f35459e3191f8b76b72b0273/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9ed3099be677fb94a976b88d1474b51628198c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/03d60f5c98ca900c8f64eb5bdc540cdbf8992c19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23df4f6c5a6ede2e56e5d676100a8ed675f4cc71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38854b3389174d3c247efbcf39b503dc41761295">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2efdd1ccab57f09e35ecdc84611d560f9f3e6fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/62d20d8d40d77410c1d5092339e067bdda1b554b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8b2e1071ceaf49cdf0638db290ebf94ce5c455f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/fcc8e6eb12765a20b3dabac2c387902bc6f6d2b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dc0e9173e1c4e2340238e0da828328b00533a3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/2cc138cf6781432f9c94f7848c2cb07e924b9ca1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ddfcaa2d1f171ed1556f52b9d8c83ff4cdbcbc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Music/VidMed/app/libs/CONTEC08A_SDK v1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7caf65fd12bf712c064b8e2a082e799ac9b65bcf">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/2/CONTEC08A_SDK v1.6_388ada0ee78e380b42311225920caa5037066ee2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/24a753eb03380dde6db2381ef8b37bbbc8b25d3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1ba28525e2ef27d0ef6cb2558b9fd696f47aeb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/c67d6cd93ae8713aaff92e48633eee00e39b86a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8b0b18d94dce1629113bbfd4c895520c3f7ad34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/f7594d45a2aad29c37e74c34cd03224df4e653ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d0ef9dfa1dde2cdd0800cf7017d5a38bdcee4d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/e59e2203d0d72abd0ab33e09bececee58fdc38b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5186871d5757414b18b9b3ceb8f276788c15971/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/dfa392869d89ce61e2c88148f6447bcdcad6439c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c482d1431c096250d2d077edb9639611158890e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/4a5c51030d5ac379d6ff2d452f8376187bd90cdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea85c42661414817f044bcbb6d2ba131937a0906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/09e7f8df3e574032495e08b7dc2fecb5b0f51c6a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57b549993adb694139b6abac0c8cca32a2effdce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/2300861b09eee74ecfd59ce419443a13beb607f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b15d5ec8b67d62322e7b645b9318d18926bab17e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/0fd409940f96fc20d898893f8d338ef8e8b8011a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d49f62c970d4e21981406ff65e92fd5e64af3126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/ebe51dbc82b50b4806c49d1fb635b7a9288ac48d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_526cdcca563bb2b50bb9997d7775bab9026a9b26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/eb2c6586e95a9a338a39381df9e74bbef3382fe1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_146d19b67f143275425eea960520f0eb941f0a20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/bb094cd20483a58dfc357b2ae835ab8617181323/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8e222b356ed75a20d61f007407c2be42774462c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/.android/build-cache/465d622af1e44b3e20ff2c7a96ccf378bc0b4f98/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/user/Music/VidMed/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_69b281347df9fc956f25bb4357a706754fbe2f2e/classes.dex" />
+    </item>
+
+</items>

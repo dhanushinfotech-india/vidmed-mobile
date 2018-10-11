@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/forgot_pass"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:paddingLeft="10dp"
+        android:background="@drawable/edittext_bg"
+        android:hint="Enter User ID"/>
+
+    <Button
+        android:id="@+id/forgot_pass_save"
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:text="Submit"
+        android:gravity="center"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
